@@ -7,7 +7,6 @@ The study uses the following datasets from UCSD(https://cseweb.ucsd.edu/~jmcaule
 - `Steam_games`: Information on games including names, tags, and specifications.
 
 ## Methods
-- **Data Preparation**: Data from the UCSD datasets is preprocessed and transformed into a suitable format.
 - **Apriori Algorithm**: Used to identify sets of frequently co-occurring games within user data.
 - **Cosine Similarity Algorithm**: Used to find games with similar tags to those the user frequently engages with.
 
